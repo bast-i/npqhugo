@@ -6,9 +6,9 @@ theme = "npq-hugo"
 pygmentsUseClasses=true
 
 [params]
-  author = "your name"
+  author = "Mahmuthan Bastug"
   description = "your description"
-  keywords = "hugo blog"
+  keywords = "Red Hat Events"
   useAvatar = true
   microBlogSection = "posts"
   displayMicroBlog = false
@@ -40,11 +40,6 @@ pygmentsUseClasses=true
     pre = "<i class=\"fab fa-github fa-ms\"></i>"
     url = "https://github.com/yourgithubusername23434"
     weight = -6 
-  [[menu.main]]
-    name = "RSS"
-    pre = "<i class=\"fas fa-rss fa-ms\"></i>"
-    url = "/index.xml"
-    weight = -4 
   [[menu.main]]
     name = "contact"
     pre = "<i class=\"far fa-envelope\"></i>"
